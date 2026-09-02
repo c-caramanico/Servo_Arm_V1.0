@@ -1,0 +1,1 @@
+![alt text](Images/robot-interior.png.webp)
